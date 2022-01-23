@@ -1,0 +1,13 @@
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+.language {
+  color: #198754;
+}
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
